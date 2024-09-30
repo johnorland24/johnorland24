@@ -1,6 +1,6 @@
 # Hi there! I'm John Orland Sudoy 👋  
 
-![Profile Image](https://ibb.co/25XMdnL)  
+![Profile Image](https://avatars.githubusercontent.com/u/152146471?s=400&u=7d8b7a61aacdd703e6ca4a9d5a05edfce8e549c2&v=4)  
 
 ## 👨‍💻 About Me  
 
