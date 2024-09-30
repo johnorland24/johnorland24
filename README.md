@@ -33,16 +33,18 @@ aiming to create seamless user experiences.
 ### Version Control & Collaboration  
 - Git  
 - GitHub  
- 
+
+ ## Resume
+ -[Portfilo](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)
 
 ## 📈 Projects  
 
-### 🎨 Portfolio Website  
-![Portfolio Image](https://github.com/user-attachments/assets/5f35e8d1-7969-4964-9ace-e311750edb77)  
-![Portfilo](https://main-portflio.vercel.app)
+
+![Portfolio Image](https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470")  
+-[Portfilo](https://main-portflio.vercel.app)
 - A personal website to showcase my work and skills.  
 
- 
+
 
 ## 🌱 Currently Learning  
 I'm currently enhancing my skills in TypeScript, Docker, and cloud technologies such as AWS and Azure to further increase my contributions to web development.  
