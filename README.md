@@ -38,7 +38,8 @@ aiming to create seamless user experiences.
 ## 📈 Projects  
 
 ### 🎨 Portfolio Website  
-![Portfolio Image](https://main-portflio.vercel.app)  
+![Portfolio Image](https://github.com/user-attachments/assets/5f35e8d1-7969-4964-9ace-e311750edb77)  
+![Portfilo](https://main-portflio.vercel.app)
 - A personal website to showcase my work and skills.  
 
  
@@ -49,12 +50,13 @@ I'm currently enhancing my skills in TypeScript, Docker, and cloud technologies 
 ## 📫 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/john-orland-sudoy)  
-- [Twitter](https://twitter.com/john_orland)  
+- [Facebook](https://www.facebook.com/johnorland.sudoy.1)  
 - [Personal Website](https://main-portflio.vercel.app)  
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
 ---  
+
 
 Thank you for visiting my profile!
 <!---
