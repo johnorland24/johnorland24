@@ -43,7 +43,8 @@ aiming to create seamless user experiences.
 </div>
 
  ## Resume
- -[resume](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)
+ -[donwlod](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)
+ <img width="545" alt="Screenshot 2024-09-30 at 11 48 27 PM" src="https://github.com/user-attachments/assets/eb06d5de-c2d2-42cb-897a-6e986759facf">
 
 ## 📈 Portfolio
 
@@ -74,3 +75,4 @@ Thank you for visiting my profile!
 johnorland24/johnorland24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
