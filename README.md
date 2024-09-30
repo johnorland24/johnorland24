@@ -61,7 +61,8 @@ I'm currently enhancing my skills in TypeScript, Docker, and cloud technologies 
 
 - [LinkedIn](https://www.linkedin.com/in/john-orland-sudoy)  
 - [Facebook](https://www.facebook.com/johnorland.sudoy.1)  
-- [Personal Website](https://main-portflio.vercel.app)  
+- [Personal Website](https://main-portflio.vercel.app)
+- [Email](johnorlandsudoy49@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
