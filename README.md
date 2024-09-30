@@ -40,7 +40,7 @@ aiming to create seamless user experiences.
 ## 📈 Projects  
 
 
-![Portfolio Image](https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470")  
+![Portfolio Image](https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470)  
 -[Portfilo](https://main-portflio.vercel.app)
 - A personal website to showcase my work and skills.  
 
