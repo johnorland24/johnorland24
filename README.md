@@ -35,7 +35,7 @@ aiming to create seamless user experiences.
 - GitHub  
 
  ## Resume
- -[Portfilo](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)
+ -[resume](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)
 
 ## 📈 Projects  
 
