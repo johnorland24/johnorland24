@@ -1,6 +1,6 @@
 # Hi there! I'm John Orland Sudoy 👋  
 
-![Profile Image](https://avatars.githubusercontent.com/u/152146471?v=4&size=64)  
+![Profile Image](https://ibb.co/25XMdnL)  
 
 ## 👨‍💻 About Me  
 
@@ -20,8 +20,8 @@ aiming to create seamless user experiences.
 
 ### Back-End  
 - Node.js  
-- Express  
-- Python  
+- Next-js 
+- laravel
 - laravel
 - PHP  
 
