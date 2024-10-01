@@ -43,8 +43,8 @@ At 24 years old, I have immersed myself in both front-end and back-end technolog
 </div>  
 
 ## 📄 Resume  
-- [Download my Resume](https://github.com/user-attachments/files/17192401/johnOrlandSudoy.4.pdf)  
-![Resume Screenshot](https://github.com/user-attachments/assets/eb06d5de-c2d2-42cb-897a-6e986759facf)  
+[Download_Resume_pdf](https://github.com/user-attachments/files/17198754/john.Orland.Sudoy.pdf) 
+![Resume Screenshot]<img width="544" alt="Screenshot 2024-10-01 at 10 53 15 AM" src="https://github.com/user-attachments/assets/32d26d3b-b1da-49c2-be52-c09c49f6c4c9">
 
 ## 📈 Portfolio  
 ![Portfolio Image](https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470)  
@@ -71,4 +71,5 @@ Thank you for visiting my profile!
 johnorland24/johnorland24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
