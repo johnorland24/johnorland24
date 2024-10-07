@@ -43,8 +43,8 @@ At 24 years old, I have immersed myself in both front-end and back-end technolog
 </div>  
 
 ## 📄 Resume  
-[Download_Resume_pdf](https://github.com/user-attachments/files/17198754/john.Orland.Sudoy.pdf) <br>
-<img width="544" alt="Screenshot 2024-10-01 at 10 53 15 AM" src="https://github.com/user-attachments/assets/32d26d3b-b1da-49c2-be52-c09c49f6c4c9">
+[Download_Resume_pdf](https://github.com/user-attachments/files/17271600/john.Orland.Sudoy.1.pdf) <br>
+<img width="545" alt="Screenshot 2024-10-07 at 9 26 24 AM" src="https://github.com/user-attachments/assets/e4568898-c460-4e85-94dc-9c3993082597">
 
 ## 📈 Portfolio  
 ![Portfolio Image](https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470)  
