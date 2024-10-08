@@ -1,4 +1,5 @@
-
+<section style="justify-item:center; items:center;">
+	
 
 # Hi there! I'm John Orland Sudoy 👋  
 
@@ -74,3 +75,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+</section>
