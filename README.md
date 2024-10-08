@@ -1,7 +1,5 @@
-<section style="justify-item:center; items:center;">
-	
 
-# Hi there! I'm John Orland Sudoy 👋  
+#<h1> Hi there! I'm John Orland Sudoy 👋 </h1> 
 
 <img src="https://github.com/user-attachments/assets/f8e0fee6-346c-47c8-afa3-1a0e97b4feab" alt="Profile Image" width="150" style="border-radius:50"/>  
 
@@ -75,5 +73,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-</section>
