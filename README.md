@@ -6,6 +6,7 @@
 I am a **Junior Full Stack Developer** with a passion for building efficient and scalable web applications. At 24 years old, I have immersed myself in both front-end and back-end technologies, aiming to create seamless user experiences.  
 
 ---  
+![Designer-2](https://github.com/user-attachments/assets/f14962e0-eb32-4006-bbfe-b06849eaedcc)
 
 ## 🛠️ Technologies & Tools  
 
