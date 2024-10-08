@@ -1,12 +1,10 @@
 # Hi there! I'm John Orland Sudoy 👋  
 
-<img src="https://avatars.githubusercontent.com/u/152146471?v=4" alt="Profile Image" width="150" style="border-radius: 50%;"/>  
+<img src="(https://github.com/user-attachments/assets/f14962e0-eb32-4006-bbfe-b06849eaedcc" alt="Profile Image" width="150" style="border-radius: 50%;"/>  
 
 ## 👨‍💻 About Me  
 I am a **Junior Full Stack Developer** with a passion for building efficient and scalable web applications. At 24 years old, I have immersed myself in both front-end and back-end technologies, aiming to create seamless user experiences.  
 
----  
-![Designer-2](https://github.com/user-attachments/assets/f14962e0-eb32-4006-bbfe-b06849eaedcc)
 
 ## 🛠️ Technologies & Tools  
 
