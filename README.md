@@ -2,7 +2,7 @@
 	
 # Hi there! I'm John Orland Sudoy 👋
 
-<figure border-radius="50%" >
+<figure >
 	<img src="https://github.com/user-attachments/assets/f8e0fee6-346c-47c8-afa3-1a0e97b4feab" alt="Profile Image" width="150" />  
 </figure>
 
@@ -11,7 +11,7 @@ I am a **Junior Full Stack Developer** with a passion for building efficient and
 
 
 ## 🛠️ Technologies & Tools  
-
+</section>
 ### Front-End  
 <div align="center">  
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>  
@@ -46,6 +46,7 @@ I am a **Junior Full Stack Developer** with a passion for building efficient and
 </div>  
 
 ---  
+<section align="center">
 
 ## 📄 Resume  
 [Download Resume (PDF)](https://github.com/user-attachments/files/17271600/john.Orland.Sudoy.1.pdf) <br>  
