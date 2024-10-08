@@ -49,7 +49,7 @@ I am a **Junior Full Stack Developer** with a passion for building efficient and
 <img width="545" alt="Screenshot of Resume" src="https://github.com/user-attachments/assets/e4568898-c460-4e85-94dc-9c3993082597">
 
 ## 📈 Portfolio  
-![Portfolio Image]<a href="https://main-portflio.vercel.app"><img width="100%"  src="https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470"/></a> 
+<a href="https://main-portflio.vercel.app"><img width="100%"  src="https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470"/></a> 
 - [Visit my Portfolio](https://main-portflio.vercel.app)  
 - A personal website to showcase my work and skills.  
 
