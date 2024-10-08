@@ -1,3 +1,7 @@
+<img width="100%" src="https://github.com/user-attachments/assets/575dee22-6b6e-4b5e-9f45-98a9ad29165a" />
+
+
+
 # Hi there! I'm John Orland Sudoy 👋  
 
 <img src="https://github.com/user-attachments/assets/f8e0fee6-346c-47c8-afa3-1a0e97b4feab" alt="Profile Image" width="150" style="border-radius:50"/>  
@@ -62,10 +66,8 @@ I'm currently enhancing my skills in **TypeScript**, **Docker**, and cloud techn
 - [Personal Website](https://main-portflio.vercel.app)
 - [Email](johnorlandsudoy49@gmail.com)
 
-Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
 ---  
-
 
 Thank you for visiting my profile!
 <!---
