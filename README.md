@@ -1,5 +1,3 @@
-<img width="100%" src="https://github.com/user-attachments/assets/575dee22-6b6e-4b5e-9f45-98a9ad29165a" />
-
 
 
 # Hi there! I'm John Orland Sudoy 👋  
