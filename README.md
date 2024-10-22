@@ -12,7 +12,8 @@ Databases
 Version Control & Collaboration
 <div align="center"> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code> </div>
 
-<section align="center"> <h2>Resume</h2> <a href="https://github.com/user-attachments/files/17355314/John.orland.sudoy.pdf">Download Resume (PDF)</a> <br> <img width="545" alt="Screenshot of Resume" src="https://github.com/user-attachments/assets/e4568898-c460-4e85-94dc-9c3993082597">
+<section align="center"> <h2>Resume</h2> <a href="https://github.com/user-attachments/files/17474573/John_Orland_Sudoy.pdf">Download Resume (PDF)</a> <br> <img width="377" alt="resume" src="https://github.com/user-attachments/assets/6d7ff0a3-2ec4-4d14-a3e1-2e0b746274fd">
+
 
 <h2>Portfolio</h2> <a href="https://main-portflio.vercel.app"><img width="100%" src="https://github.com/user-attachments/assets/0c271143-1264-4195-9261-f92cef0ec470"/></a> <p>- <a href="https://main-portflio.vercel.app">Visit my Portfolio</a> - A personal website to showcase my work and skills.</p>
 
