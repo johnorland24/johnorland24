@@ -2,16 +2,41 @@
 
 Front-End
 
-<div align="center"> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/207802759-0cd8836d-91af-4c00-90bf-122ae8239335.png" alt="Astro" title="Astro"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183910550-8a53a77f-c820-4e92-99d6-72268282df17.png" alt="Vue.js" title="Vue.js"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183909546-3aa14428-ace0-4b41-bcb3-3f6b3c6fa71f.png" alt="Nuxt.js" title="Nuxt.js"/></code> </div>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,nextjs,react,vue,nuxtjs,astro,tailwind" />
+    </a>
+  </p>
 
-Back-End
-<div align="center"> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890241-c72e3300-2e31-45b2-80c6-5c3e52803524.png" alt="MongoDB" title="MongoDB"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890386-5967b031-5e1f-4df3-80d7-039ecdc5f24f.png" alt="Express.js" title="Express.js"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="React" title="React"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890498-d9c7f39a-50c8-4626-9123-8a763c9351a1.png" alt="Node.js" title="Node.js"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186223713-e5b580fd-1507-4a2c-94fb-2a5cd44d5410.png" alt="Docker" title="Docker"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" title="PHP"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890487-b4c2b9b5-5269-4a7d-b8be-a4a3493dbb53.png" alt="Laravel" title="Laravel"/></code> </div>
-Databases
-<div align="center"> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></code> </div>
+Graphics design
 
-Version Control & Collaboration
-<div align="center"> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code> <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code> </div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=wordpress,figma,css,ai,ps,d3" />
+    </a>
+  </p>
 
+Backend
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,express,python,kotlin" />
+    </a>
+  </p>
+
+Database
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,nodejs" />
+    </a>
+  </p>
+
+Tools
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,npm,github" />
+    </a>
+  </p>
 <section align="center"> <h2>Resume</h2> <a href="https://github.com/user-attachments/files/17474573/John_Orland_Sudoy.pdf">Download Resume (PDF)</a> <br> <img width="377" alt="resume" src="https://github.com/user-attachments/assets/6d7ff0a3-2ec4-4d14-a3e1-2e0b746274fd">
 
 
