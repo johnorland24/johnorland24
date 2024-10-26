@@ -4,7 +4,7 @@ Front-End
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,nextjs,react,vue,nuxtjs,astro,tailwind" />
+      <img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,nextjs,react,vue,nuxtjs,angular,astro,tailwind" />
     </a>
   </p>
 
