@@ -1,4 +1,4 @@
-<section align="center"> <h1>Hi there! I'm John Orland Sudoy</h1> <figure> <img src="https://github.com/user-attachments/assets/f8e0fee6-346c-47c8-afa3-1a0e97b4feab" alt="Profile Image" width="150" /> </figure> <h2>About Me</h2> <p>I am a <strong>Junior Full Stack Developer</strong> with a passion for building efficient and scalable web applications. At 24 years old, I have immersed myself in both front-end and back-end technologies, aiming to create seamless user experiences.</p> <h2>Technologies & Tools</h2> </section>
+<section align="center"> <h1>Hi there! I'm John Orland Sudoy</h1> <h2>About Me</h2> <p>I am a <strong>Junior Full Stack Developer</strong> with a passion for building efficient and scalable web applications. At 24 years old, I have immersed myself in both front-end and back-end technologies, aiming to create seamless user experiences.</p> <h2>Technologies & Tools</h2> </section>
 
 Front-End
 
